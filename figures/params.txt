@@ -1,0 +1,23 @@
+Default
+init_pop = {
+    "city_pop": 1000,
+    "init_protestors": 20,
+    "init_violent": 1,
+    "init_law_enf": 3,
+    "init_removals": 0,
+    "total_law_enf": 200
+}
+
+infection_rates = {
+    "alpha_0": 1,
+    "alpha_1": 0.1,
+    "beta_0": 0.1,
+    "beta_1": 1,
+}
+
+law_enforcement_params = {
+    "phi": 1,
+    "eps": 1,
+}
+
+Untamed Police Growth
